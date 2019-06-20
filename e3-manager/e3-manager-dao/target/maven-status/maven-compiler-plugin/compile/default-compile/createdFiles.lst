@@ -1,0 +1,11 @@
+cn\xuank\mapper\TbOrderMapper.class
+cn\xuank\mapper\TbOrderItemMapper.class
+cn\xuank\mapper\TbUserMapper.class
+cn\xuank\mapper\TbItemParamItemMapper.class
+cn\xuank\mapper\TbItemParamMapper.class
+cn\xuank\mapper\TbContentMapper.class
+cn\xuank\mapper\TbItemDescMapper.class
+cn\xuank\mapper\TbContentCategoryMapper.class
+cn\xuank\mapper\TbItemCatMapper.class
+cn\xuank\mapper\TbItemMapper.class
+cn\xuank\mapper\TbOrderShippingMapper.class

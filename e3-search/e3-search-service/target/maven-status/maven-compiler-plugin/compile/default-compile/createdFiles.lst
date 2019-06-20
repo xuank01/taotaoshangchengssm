@@ -1,0 +1,7 @@
+cn\xuank\search\service\impl\SearchServiceImpl.class
+cn\xuank\search\dao\SearchDao.class
+cn\xuank\search\mapper\ItemMapper.class
+cn\xuank\search\message\ItemAddMessageListener.class
+cn\xuank\search\service\impl\SearchItemServiceImpl.class
+cn\xuank\search\message\ItemUpdataMessageListener.class
+cn\xuank\search\message\ItemDeleteMessageListener.class
